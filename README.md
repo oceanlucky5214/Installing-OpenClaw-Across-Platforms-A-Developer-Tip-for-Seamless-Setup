@@ -1,1 +1,1 @@
-# Installing-OpenClaw-Across-Platforms-A-Developer-Tip-for-Seamless-Setup
+Here's a concise guide to installing OpenClaw across Windows, macOS, and Linux. Whether you're working with Python or other environments, follow these steps to get up and running smoothly. Check out our one-click scripts for an easier setup and avoid common pitfalls like path configurations or dependency issues. Start your project with a clean virtual environment and enjoy the flexibility of OpenClaw!
